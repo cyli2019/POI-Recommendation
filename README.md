@@ -24,3 +24,4 @@
 ## Survey Papers
 
 - [2020] **A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations**. [[pdf](https://arxiv.org/abs/2011.10187)] 
+- [2020] **A Survey on Point-of-Interest Recommendation in Location-based Social Networks**. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3428658.3430970)]
